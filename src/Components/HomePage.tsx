@@ -60,19 +60,19 @@ export default function HomePage() {
 
             <div style={{display: "flex", justifyContent: "space-between"}}>
                 <div>
-                    <a className="text-color-white" href="#" style={{textDecoration: "none"}}>
+                    <a className="text-color-white" href="https://github.com/Muccachino/php-shop" style={{textDecoration: "none"}}>
                         <img src="../../public/OnlineShop_Example.png" alt="online-shop" width="450" height="300" />
                         <h3>Online Shop written in PHP</h3>
                     </a>
                 </div>
                 <div>
-                    <a className="text-color-white" href="#" style={{textDecoration: "none", color: "white"}}>
+                    <a className="text-color-white" href="https://github.com/Muccachino/vite-dotnet" style={{textDecoration: "none", color: "white"}}>
                         <img src="../../public/ManagementSystem_Example.png" alt="management-system" width="450" height="300" />
                         <h3>Rebuild of Microsoft's EF-Core Tutorial using C#, ReactTS and RestAPI</h3>
                     </a>
                 </div>
                 <div>
-                    <a className="text-color-white" href="#" style={{textDecoration: "none", color: "white"}}>
+                    <a className="text-color-white" href="https://github.com/Muccachino/risk-mini-mvc" style={{textDecoration: "none", color: "white"}}>
                         <img src="../../public/Risk_Example.png" alt="risk" width="450" height="300"/>
                         <h3>Alternative Version of the board game "Risk" written in Java</h3>
                     </a>

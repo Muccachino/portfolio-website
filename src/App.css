@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Roboto, serif;
+}
+
+.nav-item {
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.background {
+    background-color: rgb(0,113,45);
+}
+
+.text-color-white {
+    color: rgb(255,251,230);
+}
